@@ -37,7 +37,7 @@ If you need to prep data for ML models, wrangle features for storytelling dashbo
 
 ### Shoutouts
 
-Project based on the Manning liveProject: _Simple AI Algorithms for Classification_
+Project based on the Manning liveProject: _Data Augmentation for Machine Learning_
 
 #### License
 
