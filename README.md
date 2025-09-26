@@ -26,11 +26,11 @@ Visualization and analysis with Pandas and Matplotlib
 OOP design patterns for scalable pipelines
 
 ### Milestones
-Deal with Missing Data — milestone-1.ipynb
+Deal with missing data — milestone-1.ipynb
 
-Data Augmentation for Text — milestone-2.ipynb
+Data augmentation for text — milestone-2.ipynb
 
-Data Augmentation for Time Series — milestone-3.ipynb
+Data augmentation for time series — milestone-3.ipynb
 
 ### Why Use This?
 If you need to prep data for ML models, wrangle features for storytelling dashboards, or build the backend for recommender apps, this project will give you a head start. Good for learning, prototyping, and bridging the gap between theory and practical data work.
